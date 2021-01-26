@@ -1,1 +1,1 @@
-Java!!
+Miscellaneous projects in Java!
